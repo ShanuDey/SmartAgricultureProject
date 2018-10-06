@@ -8,7 +8,7 @@ Ans.
 2) Upload the code into ArduinoUno and NodeMCU respectively
 3) Follow the Connection
 4) Uplaod the website code to the server
-5) build the apk
+5) build the apk // hit this link https://github.com/ShanuDey/SmartAgricultureApp
 6) Done !! Enjoy
 
 For more details please contact with me
