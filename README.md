@@ -1,5 +1,5 @@
 # SmartAgricultureProject
-This this the complete project of smart Agriculture using IOT. Read readme file and deploy the project and enjoy.
+A IOT solution for managing agriculture field, remotely live view of field parameters and forecast depending on taken data. It measures field parameters like humidity, temperature, soil moisture, sun light intensity. Depending on these parameter, it controls the water pump. It has a website and android app to remotely view these parameters and control the pump manually also.
 
 
 ### Project Name : Smart Agriculture using IOT
