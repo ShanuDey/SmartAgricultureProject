@@ -13,9 +13,9 @@ IOT, Android with Java, Web Development with PHP-HTML-CSS, Node MCU programming 
 - Clone this repository `git clone --recurse-submodules https://github.com/ShanuDey/SmartAgricultureProject.git`
 - Upload the code into ArduinoUno and NodeMCU respectively
 - Follow the sensors and actuator circuit diagram with Arduino and NodeMCU
-- Create a firebase project and collect the configuation keys
+- Create a firebase project and collect the configuration keys
 - Upload the website code to the php server and update the configs
 - build the apk from the Android app 
 - Done !! Enjoy
 
-### Feel free to raise a issue and put a start on this repository
+### Feel free to raise a issue and put a star ⭐ on this repository
